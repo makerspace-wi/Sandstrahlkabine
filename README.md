@@ -5,3 +5,5 @@ Dann endlich in 2021 entschied Amon L. sich der Sache anzunehmen und die Sandstr
 Im folgenden wird Amon die Anleitung zur Nutzung schreiben.
 
 # Anleitung
+
+<img width="600" alt="Box_1" src="https://github.com/makerspace-wi/Sandstrahlkabine/blob/main/Bilder/IMG_20211121_180754.jpg">
